@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Taher Here
+# A lazy otaku trying to understand computer vision and machine learning to create animated live feed
+
+# Currently studing GAN's and Deeplearning models for it
+
+
+
+
