@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 ### Currently studing GAN's and Deeplearning models for it
 
-
-
+[![none's GitHub stats](https://stats.quine.sh/none/github)](https://quine.sh)
 
