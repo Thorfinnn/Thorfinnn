@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Thorfinnn/Thorfinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Taher Here
-# A lazy otaku trying to understand computer vision and machine learning to create animated live feed
+## Taher Here
+### A lazy otaku trying to understand computer vision and machine learning to create animated live feed
 
-# Currently studing GAN's and Deeplearning models for it
+### Currently studing GAN's and Deeplearning models for it
 
 
 
