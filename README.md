@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Currently studing GAN's and Deeplearning models for it
 
-[![none's GitHub stats](https://stats.quine.sh/none/github)](https://quine.sh)]
+[![none's GitHub stats](https://stats.quine.sh/none/github?theme=dark)](https://quine.sh)]
 
 [![Taher's GitHub | Languages Over Time](https://stats.quine.sh/Taher/languages-over-time?theme=dark)](https://quine.sh)
 
