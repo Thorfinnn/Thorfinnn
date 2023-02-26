@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![Taher's GitHub | Languages Over Time](https://stats.quine.sh/Taher/languages-over-time?theme=dark)](https://quine.sh)
 
-[![Taher's GitHub | Topics Over Time](https://stats.quine.sh/Taher/topics-over-time?theme=dark)](https://quine.sh)
+[![Taher's GitHub | Topics Over Time](https://stats.quine.sh/Taher/topics-over-time?theme=light)](https://quine.sh)
