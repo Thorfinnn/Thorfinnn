@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Image Processing/CV**
   
 - 📫 How to reach me: **barwaniwalataher6@gmail.com**
-  
+
+- 💻 My **[Portfolio Website](
+https://thorfin-portfolio.vercel.app/)**  
 - ⚡ Fun fact: **OpenCV has even been used in sound and music recognition**
 
 
