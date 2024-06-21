@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Taher Here
-
-- 🔭 I’m currently working on  **AI powered Autonomus drone**
   
 - 🌱 I’m currently learning **Full stack web development using MERN**
   
