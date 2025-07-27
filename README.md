@@ -15,20 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Taher Here
-  
-- 🌱 I’m currently learning **Full stack web development using MERN**
-  
-- 👯 I’m looking to collaborate on **WEB/AI/ML/Image processing/CV projects**
-  
-- 💬 Ask me about **Image Processing/CV**
-  
-- 📫 How to reach me: **barwaniwalataher6@gmail.com**
-
-- 💻 My **[Portfolio Website](
-https://thorfin-portfolio.vercel.app/)**  
-- ⚡ Fun fact: **OpenCV has even been used in sound and music recognition**
-
 
 
 [![Taher's GitHub | Languages Over Time](https://stats.quine.sh/Taher/languages-over-time?theme=dark)](https://quine.sh)<br />
